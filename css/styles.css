@@ -3,3 +3,8 @@ body{
     text-align: center;
     font-family: "Arial";
 }
+
+.cabecera{
+    background-color: #33a;
+    padding: 0.5rem;
+}
