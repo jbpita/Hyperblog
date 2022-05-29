@@ -1,4 +1,9 @@
 hola soy jorge
 22 de edad
 Experimento 1
+<<<<<<< HEAD
 Master 1
+=======
+Experimento 2
+Master 1
+>>>>>>> ba6c56b (E2)
